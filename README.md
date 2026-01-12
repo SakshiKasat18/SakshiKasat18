@@ -2,43 +2,26 @@
   <img src="banner.png" alt="Sakshi Kasat Banner" />
 </p>
 
-<h1 align="center">SAKSHI KASAT</h1>
 
-<p align="center">
-  <em>Curious builder. Learning in public. Shipping with intent.</em>
-</p>
+## About
 
-<hr/>
+I’m currently pursuing a **B.Tech** alongside a **B.S. in Data Science**, and spending most of my time building, breaking, and refining things on the web.
 
-## About Me
+I’m interested in how ideas turn into systems - how interfaces meet logic, how products take shape, and how small decisions compound into real impact.
 
-I’m a curious builder who enjoys turning ideas into real, working products.  
-I like learning by doing, experimenting, breaking things, fixing them, and iterating until something meaningful comes out.
-
-Currently, I’m pursuing a **B.Tech** alongside a **B.S. in Data Science**, exploring the intersection of **engineering, design, data, and impact**.
-
-I’m deeply interested in:
-- building products that solve real problems  
-- understanding how systems work (not just how to code them)  
-- combining logic with creativity  
-- and growing through hands-on experimentation rather than just theory  
-
-I believe progress should be visible. I like seeing ideas take shape, even if they start messy.  
-For me, learning is not about perfection — it’s about momentum.
+This profile is a reflection of that process.
 
 <hr/>
 
-## What I’m Focused On Right Now
+## Current Focus
 
-- Strengthening problem-solving & DSA fundamentals  
-- Building end-to-end projects (not just components)  
-- Exploring frontend architecture and UI logic  
+- Strengthening problem-solving and DSA fundamentals  
+- Building complete, end-to-end projects  
+- Understanding frontend structure and component design  
 - Learning backend workflows and data handling  
-- Contributing to open-source and collaborative builds  
-- Developing the habit of shipping consistently  
+- Exploring open-source and collaborative development  
 
-I’m not in a rush to “look impressive.”  
-I’m more interested in **becoming solid.**
+The goal is simple: **build more, understand better, ship consistently.**
 
 <hr/>
 
@@ -69,79 +52,39 @@ I’m more interested in **becoming solid.**
 ## Projects
 
 ### 🌌 CodeGalaxy  
-A web-based productivity system where every focus session becomes a celestial object in a personal galaxy.  
-Instead of boring streaks and numbers, effort is visualized through stars, planets, and cosmic growth — making progress feel tangible and motivating.
-
-Built with the idea that:
-> consistency should feel rewarding, not repetitive.
+A web-based productivity system where focus sessions are visualized as celestial objects in a personal galaxy.  
+Built to make progress visible and consistency rewarding.
 
 ---
 
 ### 🎧 Loci – Audio Travel Guide  
-An intelligent, location-based audio guide that narrates the story of places as you move.  
-Designed to make travel immersive and hands-free — like having a storyteller in your ear while you explore.
-
-Focus areas:
-- location awareness  
-- clean UX flow  
-- contextual content delivery  
+A location-based audio guide that narrates places as users move.  
+Designed for immersive, hands-free exploration.
 
 ---
 
 ### 🌱 Breathe Green  
-A smart sustainability tool that converts everyday activities into clear, data-backed CO₂ insights.  
-Helps users understand their carbon footprint and make better environmental choices without guilt or confusion.
-
-Built around:
-- clarity over complexity  
-- data that actually makes sense  
-- sustainability without preachiness  
+A sustainability tool that converts everyday activities into clear, data-backed CO₂ insights.  
+Focused on clarity, usability, and practical awareness.
 
 ---
 
 ### 🎬 Clones & UI Builds  
-I’ve built multiple clones to understand real-world UI patterns, layout structure, and component behavior.
-
-Includes:
-- Netflix Clone  
-- Spotify Clone  
-- X (Twitter) Clone  
-
-These projects helped me:
-- understand design systems  
-- practice responsive layouts  
-- and learn how real products are structured
+Netflix, Spotify, and X (Twitter) clones built to understand layout structure, component behavior, and real-world UI patterns.
 
 ---
 
 ### 🧩 Portfolio  
-My personal space on the web — designed to reflect not just what I’ve built, but how I think.  
-An evolving project that grows as I grow.
+A personal space to document work, experiments, and progress.
 
 ---
 
 ### 📚 Classroom & Practice Projects  
-Smaller builds created through coursework, practice sessions, and exploration.  
-Each one teaches me something — even if it’s just what not to do next time.
+Smaller builds created through coursework and hands-on learning.
 
 <hr/>
 
-## How I Like To Work
-
-- I prefer building over over-planning  
-- I like clarity, structure, and clean logic  
-- I enjoy learning in public and sharing progress  
-- I’m not afraid to start small and iterate  
-- I care about both **how it works** and **how it feels**  
-
-I value environments where:
-- people are curious  
-- ideas are explored  
-- and growth is encouraged
-
-<hr/>
-
-## Let’s Connect
+## Connect
 
 <p>
   <a href="https://www.linkedin.com/in/sakshi-swaprasad-kasat-3258202a6/" target="_blank">
