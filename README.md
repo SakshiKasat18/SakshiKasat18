@@ -1,96 +1,87 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:0f172a&height=200&section=header&text=Sakshi%20Kasat&fontSize=40&fontColor=ffffff&fontAlignY=35" />
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=CBD5E1&center=true&vCenter=true&width=500&lines=Curious+builder.;Learning+in+public.;Shipping+with+intent." />
+  <img src="banner.png" alt="Sakshi Kasat Banner" />
 </p>
 
-I’m pursuing a BTech along with a BS in Data Science and learn best by building real projects — turning ideas into working systems and improving them step by step. I enjoy working on products that combine logic, usability, and clean design.
+<h1 align="center">SAKSHI KASAT</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:0f172a&height=2&section=header&text=&fontSize=0" />
+## About Me
 
-## 🚀 What I’m currently working on
+I’m a builder at heart — I like turning ideas into real, working products.  
+Currently pursuing a **B.Tech** alongside a **B.S. in Data Science**, and exploring the intersection of **engineering, design, and impact**.
 
 Right now, I’m focused on:
-- Writing better **Python** and backend logic  
-- Building clean, responsive **frontend interfaces**  
-- Learning **Data Structures & Algorithms** for strong problem-solving  
-- Exploring **open-source** and real-world codebases  
-- Understanding how products are designed, built, and scaled  
+- Building real-world projects
+- Strengthening problem-solving and system thinking
+- Learning by shipping, not just studying
 
-I try to learn by doing, not just by reading.
+I enjoy experimenting, iterating, and improving — one commit at a time.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:0f172a&height=2&section=header&text=&fontSize=0" />
+<hr/>
 
-## 🧩 Projects
+## Tech Stack
 
-### 🌌 CodeGalaxy  
-A web-based productivity system where every focus session becomes a celestial object in a personal galaxy.  
-Helps users track effort through visual progress and stay consistent in a fun, engaging way.
-
-### 🎧 Loci — Audio Travel Guide  
-A location-aware, web-based audio guide designed to enhance travel using immersive audio and contextual information.
-
-### 🌿 Breathe Green  
-A smart sustainability tool that helps users understand and reduce their carbon footprint by converting everyday activities into clear, data-backed CO₂ insights.
-
-### 🎬 UI Clones (Netflix, Spotify, X)  
-Frontend clones built to improve layout, responsiveness, and attention to detail while understanding how real products are structured.
-
-### 🪞 Portfolio  
-A personal website to showcase my work, projects, and learning journey.
-
-### 🧪 Classroom & Learning Projects  
-Smaller projects built as part of coursework and practice to strengthen fundamentals and experiment with new concepts.
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:0f172a&height=2&section=header&text=&fontSize=0" />
-
-## 🛠️ Tech Stack
+### Languages & Core
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,html,css" />
+</p>
 
 ### Frontend
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+  <img src="https://skillicons.dev/icons?i=react,tailwind" />
 </p>
 
-### Backend
+### Backend & Databases
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40"/>
+  <img src="https://skillicons.dev/icons?i=flask,mongodb" />
 </p>
 
-### Database
+### Tools & Workflow
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
+  <img src="https://skillicons.dev/icons?i=git,github" />
 </p>
 
-### Version Control & Tools
+<hr/>
+
+## Projects
+
+### 🌌 CodeGalaxy  
+A web-based productivity system where every focus session becomes a celestial object in a personal galaxy — helping users track effort through visual progression.
+
+### 🎧 Loci – Audio Travel Guide  
+An intelligent, location-based audio guide that narrates the story of places as you move — making exploration immersive and hands-free.
+
+### 🌱 Breathe Green  
+A smart sustainability tool that converts everyday activities into clear, data-backed CO₂ insights — helping users understand and reduce their carbon footprint.
+
+### 🎬 Clones & Experiments  
+- Netflix Clone  
+- Spotify Clone  
+- X (Twitter) Clone  
+
+Built to understand UI patterns, component architecture, and real-world layouts.
+
+### 🧩 Portfolio  
+My personal space on the web — designed to reflect my work, process, and growth.
+
+### 📚 Classroom Projects  
+Small but meaningful builds created through coursework and hands-on learning.
+
+<hr/>
+
+## Let’s Connect
+
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+  <a href="https://www.linkedin.com/in/sakshi-swaprasad-kasat-3258202a6/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:sakshisamu18@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:0f172a&height=2&section=header&text=&fontSize=0" />
+<hr/>
 
-## 📈 How I work
-
-- I focus on **clarity over complexity**  
-- I break problems down and build step by step  
-- I care about writing code that is understandable and maintainable  
-- I prefer consistent progress over rushed results  
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:0f172a&height=2&section=header&text=&fontSize=0" />
-
-## 🌍 A little more about me
-
-I enjoy building things that are useful, learning through experimentation, and working on ideas that have real-world impact. I’m always open to collaborating, learning from others, and improving with every project.
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:0f172a&height=2&section=header&text=&fontSize=0" />
-
-## 🤝 Let’s connect
-
-- 💼 **LinkedIn**: https://www.linkedin.com/in/sakshi-swaprasad-kasat-3258202a6/  
-- 📧 **Email**: sakshisamu18@gmail.com  
-
-I’m always happy to chat, collaborate, or exchange ideas.
+<p align="center">
+  <em>Always building. Always learning.</em>
+</p>
