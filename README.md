@@ -6,6 +6,10 @@ I’m pursuing a BTech along with a BS in Data Science and learn best by buildin
 
 ---
 
+### ✦ Where curiosity meets execution
+
+This is the phase where I’m strengthening foundations, experimenting with ideas, and learning how real systems are built.
+
 ## 🚀 What I’m currently working on
 
 Right now, I’m focused on:
@@ -19,9 +23,11 @@ I try to learn by doing, not just by reading.
 
 ---
 
-## 🧩 Projects
+### ✦ Turning ideas into real products
 
-These projects reflect what I’m building and learning right now:
+These are not just projects — they’re checkpoints in my learning journey.
+
+## 🧩 Projects
 
 ### 🌌 CodeGalaxy  
 A web-based productivity system where every focus session becomes a celestial object in a personal galaxy.  
@@ -43,6 +49,10 @@ A personal website to showcase my work, projects, and learning journey.
 Smaller projects built as part of coursework and practice to strengthen fundamentals and experiment with new concepts.
 
 ---
+
+### ✦ The tools behind the work
+
+No hype. Just what I actually use.
 
 ## 🛠️ Tech Stack
 
@@ -67,6 +77,10 @@ Smaller projects built as part of coursework and practice to strengthen fundamen
 
 ---
 
+### ✦ How I like to build
+
+This is the mindset I bring to every project.
+
 ## 📈 How I work
 
 - I focus on **clarity over complexity**  
@@ -76,17 +90,23 @@ Smaller projects built as part of coursework and practice to strengthen fundamen
 
 ---
 
+### ✦ Beyond the screen
+
+A little about the human behind the code.
+
 ## 🌍 A little more about me
 
 I enjoy building things that are useful, learning through experimentation, and working on ideas that have real-world impact. I’m always open to collaborating, learning from others, and improving with every project.
 
 ---
 
-## 🤝 Let’s connect
+### ✦ Open doors & open conversations
 
-I’m always open to connecting with people who are building, learning, or exploring interesting ideas.
+If something here resonates, feel free to reach out.
+
+## 🤝 Let’s connect
 
 - 💼 **LinkedIn**: https://www.linkedin.com/in/sakshi-swaprasad-kasat-3258202a6/  
 - 📧 **Email**: sakshisamu18@gmail.com  
 
-Feel free to reach out — I’m happy to chat, collaborate, or exchange ideas.
+I’m always happy to chat, collaborate, or exchange ideas.
