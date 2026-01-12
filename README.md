@@ -1,7 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:0f172a&height=200&section=header&text=Sakshi%20Kasat&fontSize=40&fontColor=ffffff&fontAlignY=35" />
 
-# Hi, I’m Sakshi 👋
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=CBD5E1&center=true&vCenter=true&width=500&lines=Curious+builder.;Learning+in+public.;Shipping+with+intent." />
 </p>
