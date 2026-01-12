@@ -1,14 +1,14 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:0f172a&height=200&section=header&text=Sakshi%20Kasat&fontSize=40&fontColor=ffffff&fontAlignY=35" />
+
 # Hi, I’m Sakshi 👋
 
-Curious builder. Learning in public. Shipping with intent.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=CBD5E1&center=true&vCenter=true&width=500&lines=Curious+builder.;Learning+in+public.;Shipping+with+intent." />
+</p>
 
 I’m pursuing a BTech along with a BS in Data Science and learn best by building real projects — turning ideas into working systems and improving them step by step. I enjoy working on products that combine logic, usability, and clean design.
 
----
-
-### ✦ Where curiosity meets execution
-
-This is the phase where I’m strengthening foundations, experimenting with ideas, and learning how real systems are built.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:0f172a&height=2&section=header&text=&fontSize=0" />
 
 ## 🚀 What I’m currently working on
 
@@ -21,11 +21,7 @@ Right now, I’m focused on:
 
 I try to learn by doing, not just by reading.
 
----
-
-### ✦ Turning ideas into real products
-
-These are not just projects — they’re checkpoints in my learning journey.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:0f172a&height=2&section=header&text=&fontSize=0" />
 
 ## 🧩 Projects
 
@@ -48,38 +44,36 @@ A personal website to showcase my work, projects, and learning journey.
 ### 🧪 Classroom & Learning Projects  
 Smaller projects built as part of coursework and practice to strengthen fundamentals and experiment with new concepts.
 
----
-
-### ✦ The tools behind the work
-
-No hype. Just what I actually use.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:0f172a&height=2&section=header&text=&fontSize=0" />
 
 ## 🛠️ Tech Stack
 
 ### Frontend
-- 🌐 HTML  
-- 🎨 CSS  
-- ⚡ JavaScript  
-- ⚛️ React.js  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+</p>
 
 ### Backend
-- 🐍 Python  
-- 🌶 Flask  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40"/>
+</p>
 
 ### Database
-- 🍃 MongoDB  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
+</p>
 
 ### Version Control & Tools
-- 🔧 Git  
-- 🐙 GitHub  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+</p>
 
-(I grow my stack intentionally, adding tools as I understand and use them.)
-
----
-
-### ✦ How I like to build
-
-This is the mindset I bring to every project.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:0f172a&height=2&section=header&text=&fontSize=0" />
 
 ## 📈 How I work
 
@@ -88,21 +82,13 @@ This is the mindset I bring to every project.
 - I care about writing code that is understandable and maintainable  
 - I prefer consistent progress over rushed results  
 
----
-
-### ✦ Beyond the screen
-
-A little about the human behind the code.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:0f172a&height=2&section=header&text=&fontSize=0" />
 
 ## 🌍 A little more about me
 
 I enjoy building things that are useful, learning through experimentation, and working on ideas that have real-world impact. I’m always open to collaborating, learning from others, and improving with every project.
 
----
-
-### ✦ Open doors & open conversations
-
-If something here resonates, feel free to reach out.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:0f172a&height=2&section=header&text=&fontSize=0" />
 
 ## 🤝 Let’s connect
 
