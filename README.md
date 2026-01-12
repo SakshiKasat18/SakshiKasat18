@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Sakshi Kasat Banner" />
+  <img src="banner1.png" alt="Sakshi Kasat Banner" />
 </p>
 
 
