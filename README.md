@@ -112,8 +112,12 @@ A personal space to document work, experiments, and progress.
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/SakshiKasat18" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" />
+  <a href="https://x.com/SakshiKasat1809" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/sakshi_kasat_18/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </p>
 
