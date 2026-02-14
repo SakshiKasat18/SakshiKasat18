@@ -2,85 +2,102 @@
   <img src="banner1.png" alt="Sakshi Kasat Banner" />
 </p>
 
-
 ## About
 
-I’m currently pursuing a **B.Tech** alongside a **B.S. in Data Science**, and spending most of my time building, breaking, and refining things on the web.
+I'm a first-year computer science student building toward **backend and systems work** through open source and project-driven learning. I focus on how APIs, services, and data flow fit together in practical products.
 
-I’m interested in how ideas turn into systems - how interfaces meet logic, how products take shape, and how small decisions compound into real impact.
+Most of my progress comes from reading production code, shipping small features, and fixing real issues. That process keeps me grounded in test quality, contributor workflows, and how software evolves in the real world.
 
-This profile is a reflection of that process.
+This profile is a reflection of that journey.
 
 <hr/>
 
 ## Current Focus
 
-- Strengthening problem-solving and DSA fundamentals  
-- Building complete, end-to-end projects  
-- Understanding frontend structure and component design  
-- Learning backend workflows and data handling  
-- Exploring open-source and collaborative development  
+- Contributing to open source through **Summer of Bitcoin**
+- Understanding large production codebases and test infrastructure
+- Building complete backend systems and APIs
+- Working with **Loci** and **CodeGalaxy** MVPs
+- Learning systems programming and database architecture
 
-The goal is simple: **build more, understand better, ship consistently.**
+The goal is simple: **learn by shipping, contribute meaningfully, build with intent.**
 
 <hr/>
 
 ## Tech Stack
 
-### Languages & Core
+### Languages
+
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,go,rust,cs" />
 </p>
 
-### Frontend
+### Frameworks & Web
+
 <p>
-  <img src="https://skillicons.dev/icons?i=react,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,flask,tailwind,html,css" />
 </p>
 
-### Backend & Databases
+### Databases
+
 <p>
-  <img src="https://skillicons.dev/icons?i=flask,mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
 </p>
 
-### Tools & Workflow
+### Tools & Software
+
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman,figma" />
 </p>
 
 <hr/>
 
 ## Projects
 
-### 🌌 CodeGalaxy  
-A web-based productivity system where focus sessions are visualized as celestial objects in a personal galaxy.  
-Built to make progress visible and consistency rewarding.
+### 🎧 Loci — MVP ready · In progress
+
+An audio-first spatial companion that responds to where you are, turning physical movement into contextual stories without demanding screen interaction.
+
+**Tech:** Next.js, TypeScript, PostgreSQL, Tailwind CSS
 
 ---
 
-### 🎧 Loci – Audio Travel Guide  
-A location-based audio guide that narrates places as users move.  
-Designed for immersive, hands-free exploration.
+### 🌌 CodeGalaxy — MVP ready
+
+A productivity web application that visualizes focus sessions as celestial objects, using a Flask–MongoDB backend and a Canvas-based galaxy interface to make progress tangible.
+
+**Tech:** Flask, MongoDB, Canvas API, JavaScript
 
 ---
 
-### 🌱 Breathe Green  
-A sustainability tool that converts everyday activities into clear, data-backed CO₂ insights.  
-Focused on clarity, usability, and practical awareness.
+### 💼 AI-Native Job Board — In progress
+
+An AI-native job board concept that reinterprets traditional job descriptions into tasks, skills, and expected outcomes using a browser plugin and backend AI.
+
+**Tech:** JavaScript (Browser Extension), Python (Flask), LLM APIs, HTML, CSS
 
 ---
 
-### 🎬 Clones & UI Builds  
-Netflix, Spotify, and X (Twitter) clones built to understand layout structure, component behavior, and real-world UI patterns.
+### 🎨 GestureInk — In progress
+
+A gesture-controlled doodling system that transforms hand movements into smooth, expressive strokes using real-time computer vision and motion filtering.
+
+**Tech:** Python, OpenCV, MediaPipe, NumPy
 
 ---
 
-### 🧩 Portfolio  
-A personal space to document work, experiments, and progress.
+### 🔓 Open Source Contributions
+
+Contributing through **Summer of Bitcoin**, focusing on understanding large production codebases, test infrastructure, and contributor workflows.
+
+**Projects:** Bitcoin Core, Angor
 
 ---
 
-### 📚 Classroom & Practice Projects  
-Smaller builds created through coursework and hands-on learning.
+### 🧩 Portfolio
+
+A personal space to document work, experiments, and progress.  
+[View Portfolio →](https://portfolio-sakshikasat.vercel.app/)
 
 <hr/>
 
@@ -94,10 +111,14 @@ Smaller builds created through coursework and hands-on learning.
   <a href="mailto:sakshisamu18@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/SakshiKasat18" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
 </p>
 
 <hr/>
 
 <p align="center">
-  <em>Always building. Always learning.</em>
+  <em>Learning by shipping. Building with intent.</em>
 </p>
