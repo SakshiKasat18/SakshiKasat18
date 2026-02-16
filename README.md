@@ -94,12 +94,6 @@ Contributing through **Summer of Bitcoin**, focusing on understanding large prod
 
 ---
 
-### 🧩 Portfolio
-
-A personal space to document work, experiments, and progress.  
-[View Portfolio →](https://portfolio-sakshikasat.vercel.app/)
-
-<hr/>
 
 ## Connect
 
