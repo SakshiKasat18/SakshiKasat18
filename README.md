@@ -12,9 +12,6 @@
 
 <br/>
 
-[![Visitors](https://komarev.com/ghpvc/?username=sakshikasat&label=Profile+Views&color=58A6FF&style=flat-square)](https://github.com/sakshikasat)
-[![GitHub followers](https://img.shields.io/github/followers/sakshikasat?label=Followers&style=flat-square&color=58A6FF)](https://github.com/sakshikasat?tab=followers)
-
 </div>
 
 ---
