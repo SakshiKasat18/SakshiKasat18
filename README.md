@@ -1,104 +1,152 @@
 <p align="center">
-  <img src="banner1.png" alt="Sakshi Kasat Banner" />
+  <img src="banner.png" alt="Sakshi Kasat Banner" />
 </p>
 
-## About
+<div align="center">
 
-I'm a first-year computer science student building toward **backend and systems work** through open source and project-driven learning. I focus on how APIs, services, and data flow fit together in practical products.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Sakshi+Kasat+%F0%9F%91%8B;Backend+%E2%80%A2+AI+%E2%80%A2+Product+Engineering;Building+products%2C+exploring+systems.;Turning+questions+into+projects.)](https://git.io/typing-svg)
 
-Most of my progress comes from reading production code, shipping small features, and fixing real issues. That process keeps me grounded in test quality, contributor workflows, and how software evolves in the real world.
+<br/>
 
-This profile is a reflection of that journey.
+**Building products, exploring systems, and occasionally turning questions into projects.**
 
-<hr/>
+<br/>
 
-## Current Focus
+[![Visitors](https://komarev.com/ghpvc/?username=sakshikasat&label=Profile+Views&color=58A6FF&style=flat-square)](https://github.com/sakshikasat)
+[![GitHub followers](https://img.shields.io/github/followers/sakshikasat?label=Followers&style=flat-square&color=58A6FF)](https://github.com/sakshikasat?tab=followers)
 
-- Contributing to open source through **Summer of Bitcoin**
-- Understanding large production codebases and test infrastructure
-- Building complete backend systems and APIs
-- Working with **Loci** and **CodeGalaxy** MVPs
-- Learning systems programming and database architecture
+</div>
 
-The goal is simple: **learn by shipping, contribute meaningfully, build with intent.**
+---
 
-<hr/>
+## 👋 About
 
-## Tech Stack
+Most of my projects start with a question that would've been easier to ignore.
+
+I'm currently pursuing a **B.Tech in Computer Science (AI & ML)** at **Polaris School of Technology** alongside a **BS in Data Science & Management** from **IIT Madras**.
+
+I enjoy exploring backend systems, AI applications, product engineering, and open source. Most of my learning comes from building things, reading code, breaking things accidentally, and then figuring out why they broke.
+
+When I'm not coding, there's a good chance I'm watching a Bollywood film, listening to music, attending a startup event, or falling into a research rabbit hole nobody asked me to explore.
+
+---
+
+## 🚧 Currently Building
+
+- 🎧 **Loci** — Voice-first Spatial AI System
+- ₿ **Bitcoin Transaction Intelligence Toolkit**
+- 🌌 **CodeGalaxy** — Productivity Visualization Platform
+- 🛰 Exploring Indoor Navigation & Spatial Computing
+- 🤝 Open Source Contributions
+
+---
+
+## 🧠 Current Interests
+
+```txt
+⚡ Backend Systems & APIs
+🤖 AI Applications
+₿ Bitcoin Protocol
+🏗 Product Engineering
+🌱 Open Source
+🚀 Startup Ecosystems
+🛰 Spatial Computing
+```
+
+---
+
+## 🛠 Tech Stack
 
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,go,rust,cs" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,cpp" />
 </p>
 
-### Frameworks & Web
+### Backend & Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,flask,tailwind,html,css" />
+  <img src="https://skillicons.dev/icons?i=flask,fastapi,postgres,mongodb" />
 </p>
 
-### Databases
+### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+  <img src="https://skillicons.dev/icons?i=react,html,css" />
 </p>
 
-### Tools & Software
+### Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
 </p>
 
-<hr/>
+---
 
-## Projects
+## 🚀 Featured Projects
 
-### 🎧 Loci — MVP ready · In progress
+### 🎧 Loci
 
-An audio-first spatial companion that responds to where you are, turning physical movement into contextual stories without demanding screen interaction.
+A voice-first spatial AI system designed to provide contextual information about a user's surroundings without requiring constant screen interaction.
 
-**Tech:** Next.js, TypeScript, PostgreSQL, Tailwind CSS
+- Audio-first interaction
+- Spatial awareness & navigation concepts
+- Indoor navigation exploration
+- Selected among the **Top 50 Pitches at OpenAI Engineers Day**
 
 ---
 
-### 🌌 CodeGalaxy — MVP ready
+### ₿ Bitcoin Transaction Intelligence Toolkit
 
-A productivity web application that visualizes focus sessions as celestial objects, using a Flask–MongoDB backend and a Canvas-based galaxy interface to make progress tangible.
+Built while participating in **Summer of Bitcoin**.
 
-**Tech:** Flask, MongoDB, Canvas API, JavaScript
+A toolkit consisting of:
 
----
+- 🔍 **ChainLens** — Bitcoin transaction parsing
+- 🔨 **CoinSmith** — Transaction construction
+- 🕵️ **Sherlock** — Transaction analysis & pattern detection
 
-### 💼 AI-Native Job Board — In progress
-
-An AI-native job board concept that reinterprets traditional job descriptions into tasks, skills, and expected outcomes using a browser plugin and backend AI.
-
-**Tech:** JavaScript (Browser Extension), Python (Flask), LLM APIs, HTML, CSS
+Focused on understanding Bitcoin transactions from first principles using UTXOs, scripts, SegWit, Taproot, and transaction heuristics.
 
 ---
 
-### 🎨 GestureInk — In progress
+### 🌌 CodeGalaxy
 
-A gesture-controlled doodling system that transforms hand movements into smooth, expressive strokes using real-time computer vision and motion filtering.
+A productivity visualization platform that transforms activity and progress into an interactive galaxy-based experience.
 
-**Tech:** Python, OpenCV, MediaPipe, NumPy
-
----
-
-### 🔓 Open Source Contributions
-
-Contributing through **Summer of Bitcoin**, focusing on understanding large production codebases, test infrastructure, and contributor workflows.
-
-**Projects:** Bitcoin Core, Angor
+- Flask backend
+- MongoDB database
+- Canvas-based visualization
+- Designed to make productivity feel tangible
 
 ---
 
+## 🏗 Builder Journey
 
-## Connect
+```txt
+🏆 OpenAI Engineers Day → Top 50 Pitch (Loci)
+₿ Summer of Bitcoin → Advanced to Round 3
+⚙️ Entrepreneurship Cell → Core Member
+🔮 Perplexity → Campus Partner
+🚀 Active across hackathons and builder communities
+```
 
-<p>
-  <a href="https://www.linkedin.com/in/sakshi-swaprasad-kasat-3258202a6/" target="_blank">
+---
+
+## ⚡ Random Facts
+
+- 🎬 Bollywood movie enthusiast
+- 🎵 Music is an essential development dependency
+- 📚 Falls into research rabbit holes surprisingly often
+- ❓ Most projects begin with a question
+- 🛠 Usually building something
+
+---
+
+## 🌐 Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sakshi-swaprasad-kasat-3258202a6/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   &nbsp;&nbsp;
@@ -106,17 +154,13 @@ Contributing through **Summer of Bitcoin**, focusing on understanding large prod
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://x.com/SakshiKasat1809" target="_blank">
+  <a href="https://x.com/SakshiKasat1809">
     <img src="https://skillicons.dev/icons?i=twitter" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/sakshi_kasat_18/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </p>
 
-<hr/>
+---
 
 <p align="center">
-  <em>Learning by shipping. Building with intent.</em>
+  <em>WORTH BUILDING.</em>
 </p>
