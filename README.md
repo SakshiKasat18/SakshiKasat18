@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="banner.png" alt="Sakshi Kasat Banner" />
-</p>
 
 <div align="center">
 
@@ -9,8 +6,6 @@
 <br/>
 
 **Building products, exploring systems, and occasionally turning questions into projects.**
-
-<br/>
 
 </div>
 
